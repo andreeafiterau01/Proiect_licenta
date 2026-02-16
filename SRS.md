@@ -21,9 +21,11 @@
 <ul>
 <li><strong>Secțiunea 2</strong>  - Descrierea generală</li>
 <li><strong>Secțiunea 3</strong>  - Cazuri de utilizare</li>
-<li><strong>Secțiunea 4</strong>  - Cerințele non-funcționale</li>
-<li><strong>Secțiunea 5</strong>  - Cazuri de utilizare detaliate</li>
-<li><strong>Anexe</strong>  - Diagrame și specificații suplimentare</li>
+<li><strong>Secțiunea 4</strong>  - Modelul de date</li>
+<li><strong>Secțiunea 5</strong>  - Cerințe funcționale</li>
+<li><strong>Secțiunea 6</strong>  - Vederea comportamentală</li>
+<li><strong>Secțiunea 7</strong>  - Cerințe non-funcționale</li>
+
 </ul>
 <h2 id="definiții-acronime-și-abrevieri">1.3 Definiții, Acronime și Abrevieri</h2>
 
